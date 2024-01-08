@@ -36,7 +36,8 @@ h1{
     height: 100vh;
     text-align: center; 
     opacity: 0.9;
-
+    border-radius: 16px;
+ 
     }
 .container{
     width: 1320px;
@@ -57,7 +58,7 @@ h1{
 }
 /* *****************header section end************** */
 
-/*****************catagoriess* start **************/
+/*****************catagories* start **************/
 .catagories{
     height: 600px;   
     margin: 100px;
@@ -134,23 +135,20 @@ h1{
     padding: 15px 35px;
  }
 /* **********welcome*end********************* */
-/* *************venu start here***************** */
-.venu{
-    
+/* *************venue start here***************** */
 
-}
-.venu-address{
+.venue-address{
     padding: 150px;
     border-radius: 10px;
     margin: 100px;
     text-align: center;
     background: linear-gradient(180deg, rgb(254, 225, 225) 0%, rgb(250, 226, 226) 35%, rgb(231, 245, 247) 100%);
 }
-.venu-address-time{
+.venue-address-time{
     color: #070211;
     
 }
-.venu-address-time span{
+.venue-address-time span{
     color: #F00;
 }
 .join-btn{
@@ -165,7 +163,7 @@ h1{
     border: 1px solid #ff0000;
 }
 
-/* *************venu end here***************** */
+/* *************venue end here***************** */
 
 /* **************new year offer section here******** */
 .new-offer{
@@ -301,12 +299,12 @@ h1{
     
 }
 
-    .functional-discount-img .group-img0 {
+.functional-discount-img .group-img0 {
         width: 600px;
         margin-left: 100px;
         margin-bottom: -185px;
         z-index: 1;
-    }
+}
 
 
 .functional-discount-img .group-img1{
@@ -455,6 +453,7 @@ input::placeholder{color: rgba(7, 2, 17, 0.30);
     font-weight: 400;  
 }
 /* ********************subscribe section end************* */
+/* ****************footer section start here************* */
 footer{
     background-color: #070211;
     height: 100vh;
@@ -510,9 +509,8 @@ footer .end{
     justify-content: space-between;
     padding: 0px 130px;
     align-items: center;
-
-
 }
+/* ************footer end section*********** */
 
 
 
