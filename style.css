@@ -460,6 +460,7 @@ footer{
     text-align: left;
     color: #fff;
     padding: 0px 180px 0px 0px;
+    line-height: 35px;
 }
 .title-phone{
     text-align: center;
@@ -468,6 +469,7 @@ footer{
 .title-web{
     text-align: center;
     color: #fff;
+    line-height: 45px;
 }
 i{
     margin: 0px 10px;
