@@ -35,7 +35,10 @@ h1{
     background-position: center;
     height: 100vh;
     border-radius: 16px;
+    opacity: 0.9;
+  
     }
+  
 .banner-text{
     width: 800px;
     margin: 0px auto;
