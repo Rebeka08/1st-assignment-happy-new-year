@@ -21,14 +21,6 @@ h1{
     font-weight: 900;
     line-height: 95px  ;
  }
-
- .container{
-    /*width: 1320px;
-    height: 600px;
-    flex-shrink: 0;*/
-        
-    }
-    
     p{
         color: #F00;
         text-align: center;
@@ -292,9 +284,7 @@ h1{
         display: flex;
         margin: 64px 0px 0px;
 }
-.functional-discount-img img{
-    
-}
+
 
 .functional-discount-img .group-img0 {
         width: 600px;
@@ -395,7 +385,7 @@ h1{
     font-family: Merriweather;
     font-size: 48px;
     font-weight: 900;
-     ext-transform: capitalize;
+    text-transform: capitalize;
 
 }
 .subscribe-description{
