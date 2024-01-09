@@ -19,7 +19,15 @@ h1{
     font-family: Merriweather;
     font-size: 72px;
     font-weight: 900;
-    line-height: 95px; }
+    line-height: 95px  ;
+ }
+
+ .container{
+    /*width: 1320px;
+    height: 600px;
+    flex-shrink: 0;*/
+        
+    }
     
     p{
         color: #F00;
@@ -29,29 +37,18 @@ h1{
         font-weight: 500;
     }
     /* ********header section start********* */
-    header{
-    background-image: url('/images/banner.png');
+    .banner-header{
+    background:  url('../images/banner.png');
     background-repeat: no-repeat;
     background-position: center;
     height: 100vh;
-    text-align: center; 
-    opacity: 0.9;
     border-radius: 16px;
- 
-    }
-.container{
-    width: 1320px;
-    height: 600px;
-    flex-shrink: 0;
-        
     }
 .banner-text{
     width: 800px;
     margin: 0px auto;
     padding: 50px 0px;
 }
-
-
 .banner-text .title{
     padding: 170px 0px 20px;   
 
